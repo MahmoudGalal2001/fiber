@@ -1,0 +1,58 @@
+main{
+    background-color:#fbf8f3;
+}
+main header{
+    background-color: #fbf8f3;
+}
+
+main header nav ul li a.sign-up{
+    background-color:  #4d13d1;
+    color: white ;
+    font-weight: bold;
+}
+
+main section .star{
+    padding-top: 100px;
+}
+
+main section a.view{
+    color: #4d13d1;
+    text-decoration: underline;
+    font-weight: bold;
+    transition: all 0.3s;
+}
+
+.section-2 .why{
+    color: #4d13d1;
+    font-weight: bold;
+}
+.section-3 .container{
+    background-color: #4d13d1;
+    border-radius: 5px;
+
+}
+.section-3 .container .row div{
+    color: white;
+}
+
+.section-4 h6:hover{
+   color: #4d13d1;
+}
+.section-4 h6{
+    cursor: pointer;
+    color: #247695;
+}
+.section-4 .card{
+    width: 340px;
+    margin: 10px;
+    padding: 10px;
+}
+.section-5 .container-fluid{
+    background-color: #fbf8f3;
+    padding-top: 10px;
+}
+.section-5 ul li{
+    list-style-type: none;
+
+    cursor: pointer;
+}
